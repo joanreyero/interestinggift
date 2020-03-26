@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Star gifts handpicked for you
 image: /img/cover.png
-heading: e
+heading: How do you select your gifts?
 subheading: on a mission to find the gift that will truly make them happy
 mainpitch:
   title: Why The Star Gift
@@ -11,10 +11,8 @@ mainpitch:
     find the most personal, unique, personalised and handmade gifts so that you
     can make the people you love happy.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We carefully curate each list to ensure that a superb buying experience, an
+  outstanding product and the happiness of the lucky recipient.
 intro:
   blurbs:
     - image: /img/magazine.png
@@ -36,11 +34,8 @@ intro:
         We look at all the reviews so that you don't have to. We are convinced
         that reviews are the best way to asses a gift's quality and sucess.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    ssss
 main:
   heading: Great coffee with no compromises
   description: >
