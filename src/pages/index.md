@@ -27,7 +27,7 @@ intro:
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/talk.png
       text: >-
         We aim to contact givers and recipients of all the listed gifts to ask
         about theur reactions. Only if they loved it will an item make it to our
