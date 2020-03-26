@@ -5,7 +5,7 @@ image: /img/cover.png
 heading: How do you select your gifts?
 subheading: on a mission to find the gift that will truly make them happy
 mainpitch:
-  title: Why The Star Gift
+  title: Why The Star Gift?
   description: >-
     We believe that a great gift can lead to a great relationship. We set off to
     find the most personal, unique, personalised and handmade gifts so that you
