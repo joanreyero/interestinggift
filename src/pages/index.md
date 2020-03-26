@@ -3,10 +3,13 @@ templateKey: index-page
 title: Star gifts handpicked for you
 image: /img/cover.png
 heading: e
-subheading: On a mission to find the gift that will truly make them happy
+subheading: on a mission to find the gift that will truly make them happy
 mainpitch:
   title: Why The Star Gift
-  description: 'We are a community of '
+  description: >-
+    We believe that a great gift can lead to a great relationship. We set off to
+    find the most personal, unique, personalised and handmade gifts so that you
+    can make the people you love happy.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
