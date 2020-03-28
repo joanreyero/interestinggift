@@ -8,22 +8,47 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-0"
+          className="full-width-image margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+              backgroundImage: `url('/img/cover.png')`,
+              backgroundPosition: "left top",
+              backgrountAttachment: "fixed"
           }}
-        >
-          <h1
-            className="has-text-weight-bold is-size-1"
-            style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
-              color: 'white',
-              padding: '1rem',
-            }}
+            >
+
+        <div
+        style={{
+          display: 'flex',
+          height: '150px',
+          lineHeight: '1',
+          justifyContent: 'space-around',
+          alignItems: 'left',
+          flexDirection: 'column',
+        }}
+      >
+            <h1
+        className="has-text-weight-bold is-size-1"
+        style={{
+            color: 'white',
+            padding: '1rem',
+            textAlign: 'center'
+        }}
           >
             Latest Stories
-          </h1>
+        </h1>
+            
+            <h3
+        className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          style={{
+              color: 'white',
+              lineHeight: '1',
+              padding: '0.25em',
+              textAlign: 'center'
+          }}
+            >
+            Each post is a curated list of the perfect gifts for every occasion.
+            </h3>
+            </div>
         </div>
         <section className="section">
           <div className="container">
