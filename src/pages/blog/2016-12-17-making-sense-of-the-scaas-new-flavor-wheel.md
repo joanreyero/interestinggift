@@ -3,33 +3,43 @@ templateKey: blog-post
 title: Top 3 birthday gifts in time of isolation
 date: 2020-03-23T15:04:10.000Z
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+  The coronavirus has sent many people into weeks of quarantine, bringing much
+  of our normal lives to a halt. Yet, it’s exactly during times of stress that
+  focusing on parts of normal life can be therapeutic. 
+
+
+  Gift-giving is a great way to add some positivity into your days — it’s even
+  been scientifically proven. Neurologist Dr. Beth McQuiston says, “Giving
+  promotes a sense of social connectedness.” In these times of social
+  distancing, any way we can find to increase our social connection is
+  invaluable. If you’re searching for ways to share positivity or show you care,
+  we’ve gathered three perfect gifts to give during the quarantine.
 featuredpost: true
-featuredimage: /img/mystarmaps.png
+featuredimage: /img/girl.png
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![](/img/girl.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## A map of the stars by [My Star Maps](mystarmaps.com).
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+What better way to feel grounded during turbulent times than by looking towards something bigger than ourselves? A star map that captures the sky and stars on a particular date and time of your choosing is the perfect gift for a time when quarantines have us glued to technology for news up-dates. This gift is a great way to give someone you care about a reminder of a special time and date, providing a much needed momentary escape from the stress of daily life. 
 
-## What the updates mean to you
+My Star Maps is already head of the quarantine curve; with this gift, you won’t have to leave your home and your purchased gift won’t go through any un-essential travel. My Star Maps provides e-gift wrapping that notifies the gift’s receiver via a specially crafted email that celebrates their gift while also maintaining quarantine and thus reducing any risk. After purchasing, you’ll receive an email that you can forward to your gift receiver whenever you decide to. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Of all the gifts we’ve gathered for you to choose from, the star map is definitely our favourite due to its originality and perfect adaptation to our quarantine-situation. You can get started on gifting a star map on the [My Star Maps website](mystarmaps.com).
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+## A coffee subscription by [Blue coffee box](https://www.bluecoffeebox.com/).
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Everyone knows at least one coffee connoisseur and under quarantine, many of us are hitting the coffee hard as we try to up our at-home productivity. For the coffee lovers in your life, this deca-dent coffee subscription service is quite literally the gift that keeps on giving. Every month your gift receiver will be delivered a new coffee based on a few of the criteria you provide (preferred coffee type and roast), adding some enjoyment they can look forward to every month. 
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+With Blue Coffee Box, your gift receiver will find that staying home under quarantine is a lot less burdensome with the perfect cup of coffee. 
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Live fitness and wellness by [Class Pass](https://classpass.com/).
+
+Do you know someone who’s going stir crazy under quarantine? The best way to get out that extra restless energy is with exercise, but our workouts have been seriously hindered by stay-at-home orders. That’s why a gift like Class Pass that provides access to thousands of live or on-demand workouts from top studios around the world is the perfect gift. Whether your gift recipient loves yoga or strength training, Class Pass has something to keep them fit from home while they work from home.
+
+## Wrapping up
+
+In this time of so much change and worry, it can be difficult to focus on the more mundane parts of life we once cared about, like birthdays and gift-giving. Yet, even as we all stay glued to the news while trying to make our time spent in quarantine as productive as possible, it’s vital to balance our days with the tasks and concerns we paid attention to before the outbreak. Giving gifts, whether it be for a special occasion or just to show your appreciation, is a wonderful way to get you out of your head during this worrisome time and also bring some joy to another person. With these three gifts, you’ll be able to maintain social distancing while minimizing any sense of social isolation.
