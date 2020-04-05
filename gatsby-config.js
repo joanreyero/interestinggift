@@ -56,6 +56,12 @@ module.exports = {
               destinationDir: 'static',
             },
           },
+          {
+          resolve: `gatsby-plugin-facebook-pixel`,
+          options: {
+            pixelId: '627934547783826',
+            },
+          },
         ],
       },
     },
