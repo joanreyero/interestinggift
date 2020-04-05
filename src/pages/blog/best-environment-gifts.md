@@ -13,7 +13,7 @@ description: >-
   searching for the right earth-conscious gift might seem challenging, but
   nowadays there are many companies and non-profits that offer great options.
   We’ve gathered three of the best earth-conscious gifts for you to choose from.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/arcticus.jpg
 tags:
   - gifts
