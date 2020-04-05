@@ -26,7 +26,7 @@ No gift is more welcome during these turbulent times than a gift that reminds us
 
 Another aspect of what makes a Greater Skies star map the perfect gift for your partner during quarantine is their download option. Safety is at the top of everyone’s priorities, especially when it comes to our loved ones; by purchasing the instant download option from Greater Skies, you don’t have to worry about any contamination during the quarantine. Giving your partner a gift that brings back happy memories during these difficult times is the perfect way to show your appreciation and care. 
 
-\## A surprise trip by <a href="surprisemetrips.com"> Surprise Me! </a>
+## A surprise trip by <a href="surprisemetrips.com"> Surprise Me! </a>
 
 ![](/img/surprise-me.jpg)
 
