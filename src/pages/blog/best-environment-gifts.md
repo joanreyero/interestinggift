@@ -2,15 +2,23 @@
 templateKey: blog-post
 title: The Best Earth-Conscious Gifts
 date: 2020-01-04T15:04:10.000Z
-featuredimage: /img/flavor_wheel.jpg
-description: Giving gifts is a wonderful way to show the people in your life you care. Gifts are the most impactful and meaningful when they come from a place of consideration, showing the receiver that you know what they care about and appreciate their unique personality. As environmental issues become more prescient, you might find yourself in need of purchasing a gift for someone who takes these issues seriously or you may want to uphold your own earth-friendly lifestyle while gift shopping. Whatever your needs are, searching for the right earth-conscious gift might seem challenging, but nowadays there are many companies and non-profits that offer great options. We’ve gathered three of the best earth-conscious gifts for you to choose from. 
-
+description: >-
+  Giving gifts is a wonderful way to show the people in your life you care.
+  Gifts are the most impactful and meaningful when they come from a place of
+  consideration, showing the receiver that you know what they care about and
+  appreciate their unique personality. As environmental issues become more
+  prescient, you might find yourself in need of purchasing a gift for someone
+  who takes these issues seriously or you may want to uphold your own
+  earth-friendly lifestyle while gift shopping. Whatever your needs are,
+  searching for the right earth-conscious gift might seem challenging, but
+  nowadays there are many companies and non-profits that offer great options.
+  We’ve gathered three of the best earth-conscious gifts for you to choose from.
+featuredpost: true
+featuredimage: /img/arcticus.jpg
 tags:
   - gifts
 ---
-
-
-## Donate to the Arctic with <a href="http://arcticus.co.uk/"> Arcticus </a> 
+## Donate to the Arctic with <a href="http://arcticus.co.uk/"> Arcticus </a>
 
 ![](/img/arcticus.jpg)
 
@@ -22,14 +30,14 @@ An item from Articus makes the perfect earth-conscious gift because the gift’s
 
 ![](/img/parley.png)
 
-
 If you’re shopping for a fashion-forward person but still want to give an earth-conscious gift, the Adidas x Parley Collection is the end of your search. Whether it’s shoes or clothes, this collection from Adidas is created entirely from recycled plastic waste. Not only is this gift thoughtful and environmentally-friendly, but it’s also a fascinating achievement in fashion that shows just how well recycled material can be incorporated into our modern-day clothing needs. Adidas produces each item in this collection with a low energy and low water printing process, keeping the final product as earth-conscious as possible from start to finish. A gift from the Adidas X Parley Collection ensures that you’re helping to clean the beaches of plastic while staying stylish. 
 
 ## A portable water bottle from <a href="https://closca.com/pages/consciousness"> Closca </a>
+
 ![](/img/closca.jpg)
 
 One of the best changes we can make to support the environment is reducing our use of water bottles through purchasing a reusable water bottle. A high-quality reusable bottle from Closca is the perfect earth-conscious gift to get started on reducing plastic use. Not only is this bottle made with the toughest, BPA free glass, but it also contains an infuser for tea or fruit. Purchasing a Closca water bottle also means putting 10% of that sale towards a climate change NGO, making it an earth-conscious gift at every level. 
 
 ## Wrapping-up
 
-Purchasing gifts is a regular part of maintaining enjoyable relationships with others by showing our appreciation. Yet, buying gifts doesn’t require leaving behind important values like environmentalism. With our list, you’ll be able to purchase earth-conscious gifts for any occasion. 
+Purchasing gifts is a regular part of maintaining enjoyable relationships with others by showing our appreciation. Yet, buying gifts doesn’t require leaving behind important values like environmentalism. With our list, you’ll be able to purchase earth-conscious gifts for any occasion.
