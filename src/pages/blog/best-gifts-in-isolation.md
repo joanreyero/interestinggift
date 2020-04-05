@@ -2,9 +2,15 @@
 templateKey: blog-post
 title: Best gifts in time of isolation
 date: 2020-03-23T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The coronavirus has sent many people into weeks of quarantine, bringing much of our normal lives to a halt. Yet, it’s exactly during times of stress that focusing on parts of normal life can be therapeutic. Gift-giving is a great way to add some positivity into your days; if you’re searching for ways to share positivity or show you care, we’ve gathered three perfect gifts to give during the quarantine.
+description: >-
+  The coronavirus has sent many people into weeks of quarantine, bringing much
+  of our normal lives to a halt. Yet, it’s exactly during times of stress that
+  focusing on parts of normal life can be therapeutic. Gift-giving is a great
+  way to add some positivity into your days; if you’re searching for ways to
+  share positivity or show you care, we’ve gathered three perfect gifts to give
+  during the quarantine.
+featuredpost: true
+featuredimage: /img/girl.png
 tags:
   - gift
 ---
