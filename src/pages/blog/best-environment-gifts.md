@@ -2,11 +2,8 @@
 templateKey: blog-post
 title: The Best Earth-Conscious Gifts
 date: 2020-01-04T15:04:10.000Z
-
+featuredimage: /img/flavor_wheel.jpg
 description: Giving gifts is a wonderful way to show the people in your life you care. Gifts are the most impactful and meaningful when they come from a place of consideration, showing the receiver that you know what they care about and appreciate their unique personality. As environmental issues become more prescient, you might find yourself in need of purchasing a gift for someone who takes these issues seriously or you may want to uphold your own earth-friendly lifestyle while gift shopping. Whatever your needs are, searching for the right earth-conscious gift might seem challenging, but nowadays there are many companies and non-profits that offer great options. We’ve gathered three of the best earth-conscious gifts for you to choose from. 
-
-featuredpost: false
-featuredimage: /img/arcticus.jpg
 
 tags:
   - gifts

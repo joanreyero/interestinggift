@@ -2,12 +2,9 @@
 templateKey: 'blog-post'
 title: 'The best gifts for couples in time of isolation'
 date: 2020-02-12T15:04:10.000Z
-description: >-
-  The coronavirus continues to spread throughout the world, causing the shutdown and quarantine of many cities. If you’re experiencing a quarantine, it can be a jarring time where suddenly so much of what we concerned ourselves with in daily life seems less important. What’s more, being under quarantine for an ever-increasing span of time and no end date in sight can even harm our relationships. Stress and frustration can lead us to displace our feelings unto our partners, creating fights. If you’re seeking to lower tensions in your home or just want to show your appreciation for your partner’s support in these difficult times, we’ve got three of the best gifts to give your partner during the quarantine.
-  
-  
-featuredpost: true
-featuredimage: /img/gsk-featured.jpeg
+featuredpost: false
+featuredimage: /img/flavor_wheel.jpg
+description: The coronavirus continues to spread throughout the world, causing the shutdown and quarantine of many cities. If you’re experiencing a quarantine, it can be a jarring time where suddenly so much of what we concerned ourselves with in daily life seems less important. What’s more, being under quarantine for an ever-increasing span of time and no end date in sight can even harm our relationships. Stress and frustration can lead us to displace our feelings unto our partners, creating fights. If you’re seeking to lower tensions in your home or just want to show your appreciation for your partner’s support in these difficult times, we’ve got three of the best gifts to give your partner during the quarantine.
 tags:
   - gift
 ---
