@@ -13,7 +13,7 @@ description: >-
   your home or just want to show your appreciation for your partner’s support in
   these difficult times, we’ve got three of the best gifts to give your partner
   during the quarantine.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/gsk-featured.jpeg
 tags:
   - gift
