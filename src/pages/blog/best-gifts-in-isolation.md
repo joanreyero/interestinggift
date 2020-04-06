@@ -16,7 +16,7 @@ tags:
 ---
 ## A map of the stars by [My Star Maps](mystarmaps.com)
 
-![](/img/couple-2.png)
+![](/img/couple-2-small.png)
 
 What better way to feel grounded during turbulent times than by looking towards something bigger than ourselves? A star map that captures the sky and stars on a particular date and time of your choosing is the perfect gift for a time when quarantines have us glued to technology for news up-dates. This gift is a great way to give someone you care about a reminder of a special time and date, providing a much needed momentary escape from the stress of daily life. 
 
