@@ -17,7 +17,7 @@ tags:
 ---
 ## A map of the stars by <a href="greaterskies.com"> Greaterskies </a>
 
-![](/img/pointing-curtain.png)
+![](/img/pointing-horizontal-small.png)
 
 No gift is more welcome during these turbulent times than a gift that reminds us of happier moments. Greater Skies offers a gift for your partner that’s the perfect mix of originality and sentimentality. You can choose the exact location and time that’s special to you and your partner and Greater Skies will provide a beautiful star map showing how the stars appeared exactly at that time and place. 
 
