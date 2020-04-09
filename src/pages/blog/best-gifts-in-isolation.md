@@ -14,7 +14,7 @@ featuredimage: /img/girl.png
 tags:
   - gift
 ---
-## A map of the stars by [My Star Maps](mystarmaps.com)
+## A map of the stars by <a href="https://mystarmaps.com" target="_blank"> My Star Maps </a>
 
 ![](/img/couple-2-small.png)
 
@@ -24,7 +24,7 @@ My Star Maps is already head of the quarantine curve; with this gift, you won’
 
 Of all the gifts we’ve gathered for you to choose from, the star map is definitely our favourite due to its originality and perfect adaptation to our quarantine-situation. You can get started on gifting a star map on the [My Star Maps website](mystarmaps.com).
 
-## A coffee subscription by [Blue coffee box](https://www.bluecoffeebox.com/).
+## A coffee subscription by <a href="https://www.bluecoffeebox.com" target="_blank"> Blue Box Coffee </a>
 
 ![](/img/coffee.jpg)
 
@@ -32,7 +32,7 @@ Everyone knows at least one coffee connoisseur and under quarantine, many of us 
 
 With Blue Coffee Box, your gift receiver will find that staying home under quarantine is a lot less burdensome with the perfect cup of coffee. 
 
-## Live fitness and wellness by [Class Pass](https://classpass.com/).
+## Live fitness and wellness by <a href="https://classpass.com/" target="_blank"> Class Pass </a>.
 
 ![](/img/classpass.png)
 

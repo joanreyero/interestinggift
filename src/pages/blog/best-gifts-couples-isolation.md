@@ -15,7 +15,7 @@ featuredimage: /img/gsk-featured.jpeg
 tags:
   - gift
 ---
-## A map of the stars by <a href="greaterskies.com"> Greaterskies </a>
+## A map of the stars by <a href="https://greaterskies.com" target="_blank"> Greaterskies </a>
 
 ![](/img/pointing-horizontal-small.png)
 
@@ -23,13 +23,13 @@ No gift is more welcome during these turbulent times than a gift that reminds us
 
 Another aspect of what makes a Greater Skies star map the perfect gift for your partner during quarantine is their download option. Safety is at the top of everyone’s priorities, especially when it comes to our loved ones; by purchasing the instant download option from Greater Skies, you don’t have to worry about any contamination during the quarantine. Giving your partner a gift that brings back happy memories during these difficult times is the perfect way to show your appreciation and care. 
 
-## A surprise trip by <a href="surprisemetrips.com"> Surprise Me! </a>
+## A surprise trip by <a href="https://www.surprisemetrips.com/" target="_blank"> Surprise Me! </a>
 
 ![](/img/surprise-me.jpg)
 
 With all the unpredictability that the spread of COVID-19 has caused, being able to look forward to a fun event in the future makes the perfect gift for your partner. Surprise Me! Trips does all the work for you — from picking the location to arranging travel and planning your itinerary — all you have to do is pay and provide your preferences. If you’re searching for a way to help bring some positivity into your partner’s life by helping them focus on the future instead of the difficult situation in the present, Surprise Me! Trips is the perfect solution. 
 
-## Flowers by <a href="www.1800flowers.com"> 1800 flowers </a>
+## Flowers by <a href="https://www.1800flowers.com" target="_blank"> 1800 flowers </a>
 
 ![](/img/flowers.jpg)
 

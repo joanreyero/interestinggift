@@ -18,7 +18,7 @@ featuredimage: /img/arcticus.jpg
 tags:
   - gifts
 ---
-## Donate to the Arctic with <a href="http://arcticus.co.uk/"> Arcticus </a>
+## Donate to the Arctic with <a href="http://arcticus.co.uk/"  target="_blank"> Arcticus </a>
 
 ![](/img/arcticus.jpg)
 
@@ -26,13 +26,13 @@ If you haven’t heard of Arcticus before, you’ve definitely heard of their ca
 
 An item from Arcticus makes the perfect earth-conscious gift because the gift’s receiver can feel good about knowing they’re supporting important environmental causes like climate change and arctic thawing. The company works with reputable organizations like the WWF to fund projects that will protect the Arctic such as testing ice samples to better understanding how climate change functions and tracking polar bears to study and protect them from human influence. With the ice in the Arctic Sea shrinking by 13.3% every decade, giving an earth-conscious gift from Arcticus is the perfect way to stay environmentally-friendly while bringing some joy to another person. 
 
-## Recycle plastic with <a href="www.adidas.co.uk/parley"> Adidas Parley</a>
+## Recycle plastic with <a href="https://www.adidas.co.uk/parley" target="_blank"> Adidas Parley</a>
 
 ![](/img/parley.png)
 
 If you’re shopping for a fashion-forward person but still want to give an earth-conscious gift, the Adidas x Parley Collection is the end of your search. Whether it’s shoes or clothes, this collection from Adidas is created entirely from recycled plastic waste. Not only is this gift thoughtful and environmentally-friendly, but it’s also a fascinating achievement in fashion that shows just how well recycled material can be incorporated into our modern-day clothing needs. Adidas produces each item in this collection with a low energy and low water printing process, keeping the final product as earth-conscious as possible from start to finish. A gift from the Adidas X Parley Collection ensures that you’re helping to clean the beaches of plastic while staying stylish. 
 
-## A portable water bottle from <a href="https://closca.com/pages/consciousness"> Closca </a>
+## A portable water bottle from <a href="https://closca.com/pages/consciousness" target="_blank"> Closca </a>
 
 ![](/img/closca.jpg)
 
